@@ -1,0 +1,21 @@
+This edition of Digital Image Processing is a major revision of the book. As in
+the 1977 and 1987 editions by Gonzalez and Wintz, and the 1992, 2002, and 2008
+editions by Gonzalez and Woods, this sixth-generation edition was prepared
+with students and instructors in mind. The principal objectives of the book
+continue to be to provide an introduction to basic concepts and methodologies
+applicable to digital image processing, and to develop a foundation that can
+be used as the basis for further study and research in this field. To achieve
+these objectives, we focused again on material that we believe is fundamental
+and whose scope of application is not limited to the solution of specialized
+problems. The mathematical complexity of the book remains at a level well
+within the grasp of college seniors and first-year graduate students who have
+introductory preparation in mathematical analysis, vectors, matrices, probability,
+statistics, linear systems, and computer programming. The book website pro-
+vides tutorials to support readers needing a review of this background material.
+One of the principal reasons this book has been the world leader in its field for
+40 years is the level of attention we pay to the changing educational needs of our
+readers. The present edition is based on an extensive survey that involved faculty,
+students, and independent readers of the book in 150 institutions from 30 countries.
+The survey revealed a need for coverage of new material that has matured since the
+last edition of the book. The principal findings of the survey indicated a need for:
+

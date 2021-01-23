@@ -1,0 +1,18 @@
+These examples illustrate processing results intended for human interpretation.
+The second major area of application of digital image processing techniques men-
+tioned at the beginning of this chapter is in solving problems dealing with machine
+perception. In this case, interest is on procedures for extracting information from
+an image, in a form suitable for computer processing. Often, this information bears
+little resemblance to visual features that humans use in interpreting the content
+of an image. Examples of the type of information used in machine perception are
+statistical moments, Fourier transform coefficients, and multidimensional distance
+measures. Typical problems in machine perception that routinely utilize image pro-
+cessing techniques are automatic character recognition, industrial machine vision
+for product assembly and inspection, military recognizance, automatic processing of
+fingerprints, screening of X-rays and blood samples, and machine processing of aer-
+ial and satellite imagery for weather prediction and environmental assessment. The
+continuing decline in the ratio of computer price to performance, and the expansion
+of networking and communication bandwidth via the internet, have created unprec-
+edented opportunities for continued growth of digital image processing. Some of
+these application areas will be illustrated in the following section.
+

@@ -1,0 +1,11 @@
+1. If a new requirement emerges once an Agile project is running, it should be:
+
+A. Automatically included in the work of the release
+
+B. Automatically excluded and left until a later release
+
+C. Assessed for importance. If important to business, then include in project, displacing less important
+requirements
+
+D. Put onto a list for consideration by the wider group of stakeholders after the release has been completed
+

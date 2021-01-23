@@ -1,0 +1,9 @@
+a) Which scenarios consider the scrum master and product owner roles as a full time job? Which scenarios
+as a part-time?
+
+b) The Agile team has started working on a sprint. On the third day, a business representative comes up and
+requests another feature to be included in the same iteration. What should the Agile team do?
+
+c) An Agile team realizes that a story is more complex than estimated earlier and so it cannot be completed
+in the current iteration. What should the team do?
+
